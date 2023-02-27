@@ -11,3 +11,8 @@ Guia de armado
 https://github.com/dcastrelo/plotter/blob/main/Assembly_Guide_for_Cantilever_Laser_Engraver_V821.2.pdf
 
 vamos a hacer el modelo D_2040_2040
+
+
+URL con info para lidiar con el firmware y poder usar el servo como Z
+
+https://www.instructables.com/How-to-Control-a-Servo-Using-GRBL/
